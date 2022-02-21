@@ -1,6 +1,6 @@
 const http=require('http');
 const express=require('express');
-const logan=require('morgan');
+const logger=require('morgan');
 const cors=require('cors');
 const socketio=require('socket.io');
 
